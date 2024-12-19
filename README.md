@@ -7,11 +7,11 @@ This folder provides the python code used to track the rotations of each PS4 uni
 ### SA TOPAS input files
 This folder provides input files for simulated annealing and joint refinement of SXRD data and XPDF with PS4 units treated as rigid bodies.
 ### SXRD Datasets
-SXRD data collected at the Wiggler High Energy Beamline of the Canadian Light source on microwaved and reference materials. 
+SXRD data collected at the Wiggler High Energy Beamline of the Canadian Light Source on microwaved and reference materials. 
 ### Structure Generation
 Python code used to generate structures used in the simulated annealing routine. Employs regular expressions to parse starting .str TOPAS structure files and outputs a structure file that has appropriately constrained site occupancies, isotropic displacement parameters, and generates PS4 rigid bodies.
 ### XPDF Datasets
-XPDF G(r) files extracted from total scattering data collected at the Wiggler High Energy Beamline of the Canadian Light source on microwaved and reference materials. 
+XPDF G(r) files extracted from total scattering data collected at the Wiggler High Energy Beamline of the Canadian Light Source on microwaved and reference materials. 
 
 ## Notes
 ### Dataset naming and filepaths
